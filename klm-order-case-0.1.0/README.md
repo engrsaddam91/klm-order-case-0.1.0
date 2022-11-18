@@ -11,6 +11,7 @@ The application contain docker file and run shell script as well so in the case 
 - Spring boot & Rest
 - Spring Data JPA
 - Spring Security
+- Spring Actuator
 - H2 Database 
 - Unit Testing
 - Junit
